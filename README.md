@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
