@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1580-shuffle-the-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [2048-build-array-from-permutation](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
