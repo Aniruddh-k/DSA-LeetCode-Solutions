@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
