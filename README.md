@@ -72,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0047-permutations-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
