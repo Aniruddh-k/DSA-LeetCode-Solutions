@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1580-shuffle-the-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [2048-build-array-from-permutation](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
