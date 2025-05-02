@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
