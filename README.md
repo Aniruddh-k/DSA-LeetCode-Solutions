@@ -78,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Hash Table
 |  |
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
