@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1720-crawler-log-folder](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Union Find
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
