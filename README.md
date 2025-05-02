@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1720-crawler-log-folder](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Union Find
 |  |
 | ------- |
