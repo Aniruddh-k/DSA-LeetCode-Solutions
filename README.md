@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Union Find
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
