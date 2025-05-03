@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1720-crawler-log-folder](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Queue
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1720-crawler-log-folder](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
 |  |
 | ------- |
