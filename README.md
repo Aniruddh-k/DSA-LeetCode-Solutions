@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2358-number-of-ways-to-split-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## Simulation
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Prefix Sum
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
