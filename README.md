@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
@@ -144,5 +145,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
