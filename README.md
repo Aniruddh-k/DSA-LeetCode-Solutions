@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1241-decompress-run-length-encoded-list) |
+| [1293-three-consecutive-odds](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1580-shuffle-the-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1720-crawler-log-folder](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
