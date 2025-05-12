@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
 ## Stack
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
