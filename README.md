@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
