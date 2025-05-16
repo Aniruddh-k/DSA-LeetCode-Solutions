@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
