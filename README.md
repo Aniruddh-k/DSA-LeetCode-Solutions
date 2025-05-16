@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0168-excel-sheet-column-title](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0868-push-dominoes](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
