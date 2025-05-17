@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [1500-count-largest-group](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1500-count-largest-group](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/1500-count-largest-group) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
