@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2249-count-the-hidden-sequences](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2249-count-the-hidden-sequences](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aniruddh-k/DSA-LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## Bit Manipulation
 |  |
